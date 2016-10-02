@@ -1,0 +1,191 @@
+﻿Networking
+Racunalne Mreze
+17
+
+
+Which series of IEEE standards describes wireless networks (WLAN)?
+Koja serija IEEE standarda opisuje bezicne mreže (WLAN)?
+ 802
+ 802
+ 801
+ 801
+ 812
+ 812
+ 811
+ 811
+
+How many IP address classes are there?
+Koliko klasa IP adresa postoji?
+ 5
+ 5
+ 3
+ 3
+ 7
+ 7
+ 2
+ 2
+
+Which one of these is not a TCP flow control algorithm?
+Sto od navedenoga nije algoritam kontrole toka TCP protokola?
+ Fast start
+ Brzi start
+ Fast retransmit
+ Brza retransmisija
+ Fast recovery
+ Brzi oporavak
+ Partial ack
+ Djelomicne potvrde
+
+Which one of this is not Internet transport layer protocol?
+Koji od sljedecih protokola nije protokol prijenosne razine Interneta?
+ PTSP
+ PTSP
+ SCTP
+ SCTP
+ TCP
+ TCP
+ UDP
+ UDP
+
+What do we call protocols which do not have error recovery mechanisms?
+Kako nazivamo protokole koji nemaju mehanizme oporavka od pogreske?
+ Connectionless
+ Bespojni
+ Connection oriented
+ Spojevni
+ Connectionful
+ Spojni
+ Wireless
+ Bezicni
+
+Which layer is placed below ISO/OSI transport layer?
+Koji sloj se nalazi ispod transportnog sloja ISO/OSI modela?
+ Network layer
+ Mrezni sloj
+ Data link layer
+ Podatkovni sloj
+ Application layer
+ Aplikacijski sloj
+ Session layer
+ Dijaloski sloj
+
+Letter "P" in UTP stands for:
+Slovo "P" u kratici UTP stoji za:
+ Pair
+ Pair
+ Protocol
+ Protocol
+ Pin
+ Pin
+ Pail
+ Pail
+
+Which one of these IPv4 header fields is the longest?
+Koje od navedenih IPv4 polja je najduze?
+ Identification
+ Identification
+ TTL
+ TTL
+ Flags
+ Flags
+ Fragment Offset
+ Fragment Offset
+
+What is the most widely used protocol that uses Dijkstra algorithm?
+Koji je najrasireniji protokol koji koristi Dijkstrin algoritam?
+ OSPF
+ OSPF
+ RIP
+ RIP
+ PPP
+ PPP
+ UTP
+ UTP
+
+On which ISO/OSI layer does switch operate?
+Na kojem sloju Interneta radi switch?
+ Data link
+ Podatkovnom
+ Network
+ Mreznom
+ Transport
+ Prijenosnom
+ Application
+ Aplikacijskom
+
+Which acknowledgement is the most commonly used?
+Koja vrsta potvrde se najcesce koristi?
+ Positive cumulative
+ Pozitivna kumulativna
+ Negative cumulative
+ Negativna kumulativna
+ Positive selective
+ Pozitivna selektivna
+ Negative selective
+ Negativna selektivna
+
+Find the odd one out:
+Izbaci uljeza:
+ MBR
+ MBR
+ CBR
+ CBR
+ VBR
+ VBR
+ ABR
+ ABR
+
+What do IEEE 802.3 to 802.16 standards specify?
+Sto specificiraju IEEE standardi 802.3 do 802.16?
+ Physical layer for LAN
+ Fizicku razinu LAN mreza
+ WAN architecture
+ Arhitekturu WAN-a
+ Nothing, they don't exist
+ Nista, ne postoje
+ Ethernet cables length
+ Duljinu Ethernet kabela
+
+What is the structure of the MAC frame?
+Kako izgledaju polja MAC okvira?
+ |  SY  | SFD  |  DA  |  SA  | LEN  | LLC  | PAD  | FCS  |
+ |  SY  | SFD  |  DA  |  SA  | LEN  | LLC  | PAD  | FCS  |
+ |  SY  | SFD  |  SA  |  DA  | LEN  | LLC  | PAD  | CRC  |
+ |  SY  | SFD  |  SA  |  DA  | LEN  | LLC  | PAD  | CRC  |
+ |  SY  | SFD  |  SA  |  DA  | LLC  | PAD  | FCS  |
+ |  SY  | SFD  |  SA  |  DA  | LLC  | PAD  | FCS  |
+ |  SY  | SFD  |  DA  |  SA  | LLC  | OPT  | PAD  | CRC  |
+ |  SY  | SFD  |  DA  |  SA  | LLC  | OPT  | PAD  | CRC  |
+
+Which one of these fields is used by UDP protocol?
+Koje od ovih polja se koristi kod UDP protokola?
+ Message Length
+ Message Length
+ Options
+ Options
+ Header Length
+ Header Length
+ Sequence Number
+ Sequence Number
+
+Which ISO/OSI layer provides host-to-host communication services for applications?
+Koji ISO/OSI sloj osigurava komunikaciju među krajnjim korisnicma?
+ Transport layer
+ Prijenosni sloj
+ Physical layer
+ Fizicki sloj
+ Network layer
+ Mrezni sloj
+ Data link layer
+ Podatkovni sloj
+ 
+Which address is not used in private networks?
+Koja od ponudenih adresa se ne koristi na privatnim mrezama?
+ 172.32.16.8
+ 172.32.16.8
+ 172.16.8.4
+ 172.16.8.4
+ 10.20.40.80
+ 10.20.40.80
+ 192.168.233.253
+ 192.168.233.253

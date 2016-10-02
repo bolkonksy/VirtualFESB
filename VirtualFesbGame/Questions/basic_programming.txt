@@ -1,0 +1,169 @@
+Basic programming course
+Uvod u racunala i programiranje
+15
+
+
+C programming language was developed by:
+Programski jezik C razvio je:
+ Dennis Ritchie
+ Dennis Ritchie
+ Ken Thompson
+ Ken Thompson
+ Alan Turing
+ Alan Turing
+ John McCarthy
+ John McCarthy
+
+What translates source code to object code?
+Sto prevodi izvorni kod u objektni kod?
+ Compiler
+ Kompajler
+ Linker
+ Linker
+ Multiplexer
+ Multiplekser
+ Translator
+ Prevoditelj
+
+Preprocessor commands in C start with what symbol?
+Kojim simbolom zapocinju predprocesorske naredbe u C-u?
+ #
+ #
+ @
+ @
+ <
+ <
+ >
+ >
+
+What is the name of the main function in C?
+Kako se zove glavna funkcija u C-u?
+ main
+ main
+ start
+ start
+ init
+ init
+ begin
+ begin
+
+Which one of these is not a C variable type?
+Sto od navedenoga nije tip varijable u C-u?
+ bool
+ bool
+ char
+ char
+ double
+ double
+ long
+ long
+
+Which one of these is not a bitwise operator in C?
+Sto od navedenoga nije bitznačajni operator C-u?
+ >
+ >
+ ^
+ ^
+ |
+ |
+ &
+ &
+
+'printf("b = %d \n", 'c')' will print:
+'printf("b = %d \n", 'c')' ce ispisati:
+ b = 99
+ b = 99
+ Nothing, but it will compile.
+ Nista, ali ce se kompajlirati.
+ Nothing, it won't compile.
+ Nista, nece se kompajlirati.
+ b = c
+ b = c
+
+What do we print first in preorder tree printing?
+Sto prvo ispisujemo kod preorder ispisa stabla?
+ root node
+ root cvor
+ left child
+ lijevo dijete
+ right child
+ desno dijete
+ Preorder printing doesn't exist
+ Preorder ispis ne postoji
+
+What do we call a tree whose nodes can't have more than two children?
+Kako nazivamo stablo ciji cvorovi ne smiju imati više od dvoje djece?
+ Binary tree
+ Binarno stablo
+ Heap
+ Heap
+ Expression tree
+ Stablo proracuna
+ AVL tree
+ AVL stablo
+
+What do we call a linked list based on LIFO principle?
+Kako zovemo vezanu listu zasnovanu na LIFO principu?
+ Stack
+ Stog
+ Heap
+ Heap
+ Queue
+ Red
+ Tree
+ Stablo
+
+Which of these properties is not a B-tree property?
+Koje od ovih svojstava nije svojstvo B-stabla?
+ Every leaf has at least 2 children
+ Svaki list ima najmanje dvoje djece
+ The root is either a leaf or has 2 - m children
+ Korijen je ili list ili ima 2 - m djece
+ All nonleaf nodes have m/2 - m children
+ Svi cvorovi koji nisu listovi imaju m/2 - m djece
+ All leaves are at the same depth
+ Svi listovi su na istoj dubini
+
+Hashing is a technique mainly used to:
+Hashiranje se vecinom koristi za:
+ Insert and delete
+ Umetanje i brisanje
+ Find minimum and maximum values
+ Pronalazak najmanje i najveće vrijednosti
+ Sort
+ Sortiranje
+ Print strings
+ Ispis stringova
+
+Which of these data structures provides fastest sorting?
+Koja od navedenih struktura podataka omogucuje najbrze sortiranje?
+ Binary tree
+ Binarno stablo
+ Array
+ Niz
+ Linked list
+ Vezana lista
+ Heap
+ Heap
+
+Which ADT do we use to convert infix expression to postfix expression?
+Koji ADT koristimo za pretvaranje infix izraza u postfix izraz?
+ Stack
+ Stog
+ Heap
+ Heap
+ Hash table
+ Hash tablicu
+ Linked list
+ Vezanu listu
+
+What's the size of char pointer variable in 32bit application?
+Koja je velicina pokazivaca na char tip kod 32 bitnih aplikacija?
+ 4 bytes
+ 4 bajta
+ 8 bytes
+ 8 bajta
+ It depends on the size of the char array on which is pointing
+ Ovisi o velicini char niza na koji pokazivac pokazuje
+ 1 byte
+ 1 bajt

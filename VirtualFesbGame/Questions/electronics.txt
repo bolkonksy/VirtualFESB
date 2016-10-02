@@ -1,0 +1,125 @@
+Electronics
+Elektronika
+11
+
+
+What do we call a two-terminal electronic component that conducts primarily in one direction?
+Kako se zove poluvodicki elektronicki element s dva prikljucka koji vodi samo u jednom smjeru?
+ Diode
+ Dioda
+ Transistor
+ Tranzistor
+ LED
+ LED
+ Integrated circuit
+ Integrirani krug
+
+A pure semiconductor without any significand dopant species present is:
+Cisti poluvodic bez znacajnih kolicina primjesa je:
+ Intrinsic
+ Intrinsican
+ Extrinsic
+ Ekstrinzican
+ Extatic
+ Ekstatican
+ Made up
+ Izmisljen
+
+Which of these is not a type of a transistor?
+Sto od navedenoga nije vrsta tranzistora?
+ LGBT
+ LGBT
+ BJT
+ BJT
+ JFET
+ JFET
+ MOSFET
+ MOSFET
+
+Which operator represents logical disjunction?
+Koji operator predstavlja logicku disjunkciju?
+ V
+ V
+ &
+ &
+ X
+ X
+ ^
+ ^
+
+A device that selects one of several input signals and forwards it to the output is called:
+Uredaj koji odabrani ulazni signal prosljedjuje na izlaz naziva se:
+ Multiplexer
+ Muptiplekser
+ Demultiplexer
+ Demultiplekser
+ Decoder
+ Dekoder
+ Encoder
+ Enkoder
+
+Which one of these is not a type of ROM?
+Sto od navedenoga nije vrsta ROM-a?
+ EEEPROM
+ EEEPROM
+ PROM
+ PROM
+ EPROM
+ EPROM
+ EEPROM
+ EEPROM
+
+What do we need to make a RS flip flop?
+Sto nam je potrebno da napravimo RS bistabil?
+ Nothing, we'll buy it rather than make it ourselves
+ Nista, radije cemo ga kupiti nego napraviti
+ Two NOR gates
+ Dvoja NILI vrata
+ One NAND and one NOR gate
+ Jedna NI i jedna NILI vrata
+ Two OR gates
+ Dvoja ILI vrata
+
+Which one of these is not a standard flip flop?
+Koji od navedenih nije standardni bistabil?
+ DT
+ DT
+ SR
+ SR
+ T
+ T
+ D
+ D
+
+The lack of electron at a position where one could exist in atom is called:
+Nedostatak elektrona na mjestu gdje bi se mogao nalaziti u atomu naziva se:
+ Hole
+ Supljina
+ Emptyness
+ Praznina
+ Antielectron
+ Antielektron
+ Free space
+ Slobodan prostor
+
+Which technology is used to produce LSI intergrated circuits?
+Koja tehnologija se koristi za izradu LSI integriranih krugova?
+ NMOS
+ NMOS
+ TTL
+ TTL
+ Diode
+ Diodna
+ None of these
+ Nijedna od navedenih
+
+The rule of absorption say that:
+Pravilo apsorpcije kaze da je:
+ x V 1 = 1
+ x V 1 = 1
+ x V !x = 1
+ x V !x = 1
+ x V 0 = x
+ x V 0 = x
+ x V x = x
+ x V x = x

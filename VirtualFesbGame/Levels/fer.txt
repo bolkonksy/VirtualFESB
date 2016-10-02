@@ -1,0 +1,23 @@
+1 1
+ 615.653 228.054 15 15 ÿ ÿ ÿ ÿ
+0 15
+ 946.54 120.131 30 404 30 404  4.71239 ÿ ÿ ÿ ÿ Textures/wood_black.png 0 2.1
+ 103.148 285.526 30 354 30 354  0 ÿ ÿ ÿ ÿ Textures/wood_black.png 0 2.1
+ 1014.63 -372.019 30 3420 30 3420  4.71239 ÿ ÿ ÿ ÿ Textures/wood_black.png 0 2.1
+ 812.965 284.004 30 360 30 360  0 ÿ ÿ ÿ ÿ Textures/wood_black.png 0 2.1
+ 465.601 295.31 30.01 280 30.01 280  0 ÿ ÿ ÿ ÿ Textures/box.png 0 2.1
+ 680.951 306.453 76 234 76 234  4.71239 ÿ ÿ ÿ ÿ Textures/wood_light2.png 1 2.1
+ 142.974 121.268 30 110 30 110  4.71239 ÿ ÿ ÿ ÿ Textures/wood_black.png 0 2.1
+ 858.223 -37.189 30 404 30 404  4.71239 ÿ ÿ ÿ ÿ Textures/wood_black.png 0 2.1
+ 265.4 281.838 327 330 327 330  0 |  µ ÿ Textures/wood_black.png 0 4
+ 377.894 -39.1596 30 404 30 404  4.71239 ÿ ÿ ÿ ÿ Textures/wood_black.png 0 2.1
+ 462.761 118.843 30 404 30 404  4.71239 ÿ ÿ ÿ ÿ Textures/wood_black.png 0 2.1
+ 810.957 -202.299 30 360 30 360  0 ÿ ÿ ÿ ÿ Textures/wood_black.png 0 2.1
+ 269.249 447.847 30 3420 30 3420  4.71239 ÿ ÿ ÿ ÿ Textures/wood_black.png 0 2.1
+ 436.813 283.968 30 360 30 360  0 ÿ ÿ ÿ ÿ Textures/wood_black.png 0 2.1
+ 438.243 -207.272 30 360 30 360  0 ÿ ÿ ÿ ÿ Textures/wood_black.png 0 2.1
+2 4
+ 331.527 10.6368 2582 2210 2582 2210  0 ÿ ÿ ÿ ÿ Textures/pod2.png 0 17.6
+ 627.826 270.419 362 330 362 330  0 ¤ Ñ µ ÿ Textures/wood_light1.png 0 4
+ 734.712 2407.97 4142 3910 4142 3910  0 ÿ ÿ ÿ ÿ Textures/grass1.png 0 1
+ 724.458 -208.251 1725 330 1725 330  0 ¤ Ñ µ ÿ Textures/wood_light1.png 0 4
