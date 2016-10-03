@@ -1,7 +1,8 @@
 # VirtualFESB
 #### Description: OpenGL game engine and an educative game made with it
-#### Version: Alpha 0.01
-#### Made with: OpenGL, SDL, CEGUI, Box2D, GLM, GLSL.
+##### Version: Alpha 0.01
+##### Made with: OpenGL, SDL, CEGUI, Box2D, GLM, GLSL.
+##### Languages: English, Croatian
 
 ---
 
